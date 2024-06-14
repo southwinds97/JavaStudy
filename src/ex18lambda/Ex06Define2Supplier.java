@@ -1,4 +1,4 @@
-package ex16lambda;
+package ex18lambda;
 
 import java.util.ArrayList;
 import java.util.List;
